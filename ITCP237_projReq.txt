@@ -1,0 +1,40 @@
+Advance Web Application Project Requirements
+machine problems 20pts
+mp1 CRUD api
+mp2 CRUD api
+mp3 CRUD api
+mp4 CRUD Jquery/datatables frontend for mp1
+mp5 CRUD Jquery/datatables frontend for mp2
+mp6 CRUD Jquery/datatables frontend for mp3
+mp7 User registration, Login API via Jquery AJAX. admin can update role of user. admin can deactivate users. List users on datatable.
+
+
+term test Lab 30pts
+transactions CRUD api and jquery front end. the sample UI implementation will have lower points.
+
+quiz 1 15pts
+Jquery validation for crud pages 
+
+quiz 2 15pts
+jquery/api search/autocomplete on homepage. use spatie model search 10
+jquery/api search/autocomplete on homepage. use laravel/scout meilisearch or algolia 15
+
+quiz 3 15pts
+Laravel excel upload on CRUD pages
+
+quiz 4 15pts
+three(3) js charts  
+
+unit test 1 20pts
+UI/UX Design
+
+unit test 2 20pts
+jquery pagination (datatable pagination is not applicable) 15pts
+jquery infinite scroll (datatable pagination is not applicable) 20pts
+
+
+Term Test 40
+functional requirements completeness 10
+app complexity. added features 10
+program execution 10
+project contribution 10

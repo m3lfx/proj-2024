@@ -1,0 +1,22 @@
+VB.net MySQL Project requirements
+Machine problems 20pts
+mp1 CRUD functions
+mp2 CRUD functions
+mp3 CRUD functions 
+mp4 CRUD functions
+mp5 four (4) reports using crystal reports.
+
+term test lab 30pts
+transactions CRUD 20
+transactions CRUD with printed receipt or proof that the transaction was completed. 10
+
+quiz 3 pen and paper july 5, 2024 aggregate functions
+
+Unit 1 20pts
+database design. database should be in at least second normal form 2NF or at most third normal form 3NF.
+
+unit 2 20pts
+functional requirements completeness 10
+project contribution 10
+
+Term test multiple choice pen and paper
