@@ -8,7 +8,7 @@ mp5 four (4) reports using crystal reports.
 
 term test lab 30pts
 transactions CRUD 20
-transactions CRUD with printed receipt or proof that the transaction was completed. 10
+transactions CRUD with printed receipt or proof that the transaction was completed. 30
 
 quiz 3 pen and paper july 5, 2024 aggregate functions
 
